@@ -77,9 +77,13 @@ Hasil segmentasi pelanggan berdasarkan analisis RFM:
 
 Segment	Jumlah Pelanggan
 🏆 Champions	45.27%
+
 ⭐ Potential Loyalists	14.25%
+
 ⚠ Needs Attention	14%
+
 🌱 Promising	13.37%
+
 🤝 Loyal Customers	13.11%
 
 Segmentasi ini membantu bisnis untuk memahami nilai dan perilaku pelanggan sehingga strategi pemasaran dapat dibuat lebih tepat sasaran.
